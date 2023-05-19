@@ -1,2 +1,3 @@
 digite seu nome
 digite seu telefone
+digite sua senha
